@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@200;300;400;500;600&family=Source+Sans+Pro:wght@600&display=swap');
+
+         
+        * 
+
+            {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: "Source Sans 3", sans-serif;
+            }
+
+
+
+        header
+
+            {
+            position: flex;
+            text-align: center;
+            
+        
+            padding-top: 10%;
+            width: 100%;
+            }
+            
+            
+            
+        img cow.png 
+            {
+            position: flex;
+            padding-top: 10px;
+            box-sizing: border-box;
+            }
+
+        body
+
+            {
+            box-sizing: border-box;  
+            text-align: center;
+            background-color: white;
+
+            
+            
+            }            
+
+
+        .fond-greeting,
+        .question
+
+            {
+            position: flex;
+           
+            text-align: center;
+            font-size: 2rem;
+            padding-top: 20px;
+            font-weight: 100;
+            color: #E5173F;
+            }
+
+
+
+        ul
+
+            {
+            list-style: none;   
+            left: 50%;
+            position: flex;
+            text-align: center;
+            font-size: 1.5rem;
+            padding-top: 3%;
+            text-decoration: none;
+            }
+
+
+
+        ul li
+
+            {
+            padding: 20px;
+            }
+
+
+
+        ul li a 
+            {   
+            display: block;
+            color: #E5173F;
+            font-weight: 500;
+            border: 1px solid #E5173F;
+            border-radius: 40px;
+            padding: 5px 20px 5px 20px;
+            text-decoration: none;
+
+            }   
+
+
+
+        h1
+
+            {
+            padding-top: 5%;
+            }
+
+ 
+            
+
+
+
