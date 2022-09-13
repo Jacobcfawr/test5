@@ -10,7 +10,11 @@
             font-family: "Source Sans 3", sans-serif;
             }
 
-
+       img.cfa-white-rock-logo.png {
+       
+             width: 100px;
+             height: 100px
+             }
 
         header
 
@@ -24,13 +28,7 @@
             }
             
             
-            
-        img cow.png 
-            {
-            position: flex;
-            padding-top: 10px;
-            box-sizing: border-box;
-            }
+           
 
         body
 
